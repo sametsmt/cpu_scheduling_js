@@ -1,0 +1,19 @@
+Round Robin Zaman Tablosu
+[0] -- P001 -- [1]
+
+Waiting Time
+Average: -209.495
+Maximum: 0
+
+Turnaround Time
+Average: -198.995
+Maximum: 1
+
+Throughput
+T=50 -> 200
+T=100 -> 200
+T=150 -> 200
+T=200 -> 200
+
+CPU Utilization: %99.90009990009992
+Total Context Switch: 1
